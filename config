@@ -7,3 +7,6 @@
 	symlinks = false
 	ignorecase = true
 	hideDotFiles = dotGitOnly
+[remote "origin"]
+	url = https://github.com/ikea44/PhoneApps2.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
